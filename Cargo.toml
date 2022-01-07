@@ -1,0 +1,9 @@
+[package]
+name = "sisdnoise"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+
+[dependencies]
+glam = "0.20"
